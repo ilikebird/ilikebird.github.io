@@ -10,3 +10,6 @@ p{
 table{
          border:5px solid pink;
 }
+
+body{
+       background-image: url(web.jpeg);}
